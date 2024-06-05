@@ -28,7 +28,7 @@ services.forEach((service) => {
         `;
 });
 
-rightContainer.innerHTML += `<a href="pages/contact/contact.html"><button class = "contact-button">Contact Us</button></a>`;
+rightContainer.innerHTML += `<a href="/minec/pages/contact/contact.html"><button class = "contact-button">Contact Us</button></a>`;
 
 
 let serviceButtons= document.querySelectorAll(".js-service-button");
