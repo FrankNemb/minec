@@ -28,7 +28,7 @@ services.forEach((service) => {
         `;
 });
 
-rightContainer.innerHTML += `<a href="/pages/contact/contact.html"><button class = "contact-button">Contact Us</button></a>`;
+rightContainer.innerHTML += `<a href="pages/contact/contact.html"><button class = "contact-button">Contact Us</button></a>`;
 
 
 let serviceButtons= document.querySelectorAll(".js-service-button");
@@ -104,7 +104,7 @@ function displaySelectedData(serviceId){
         sessionStorage.setItem('data', variableToPass);
         const elementToPass = divContainer.id;
         sessionStorage.setItem('element', elementToPass);
-        window.location.href = '/pages/services/services-details.html';
+        window.location.href = 'pages/services/services-details.html';
 
       })
       
