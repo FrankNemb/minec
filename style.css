@@ -7,13 +7,13 @@
 
 @font-face{
     font-family: beon;
-    src: url(/fonts/beon.regular.ttf)
+    src: url(fonts/beon.regular.ttf)
 }
 
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(40, 11, 59, 0.908), rgba(40, 11, 59, 0.687)), url(/assets/images/index-page/header/house-2.jpeg);
+    background-image: linear-gradient(rgba(40, 11, 59, 0.908), rgba(40, 11, 59, 0.687)), url(assets/images/index-page/header/house-2.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -623,7 +623,7 @@ nav .hamburger-menu-icon{
 .call-to-action{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(/assets/images/index-page/contact-us/plan-house.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(assets/images/index-page/contact-us/plan-house.jpeg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -719,7 +719,7 @@ nav .hamburger-menu-icon{
 
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(40, 11, 59, 0.908), rgba(40, 11, 59, 0.687)), url(/assets/images/all-pages/buliders\ around\ a\ table.jpeg);
+    background-image: linear-gradient(rgba(40, 11, 59, 0.908), rgba(40, 11, 59, 0.687)), url(assets/images/all-pages/buliders\ around\ a\ table.jpeg);
     background-position: center;
     background-size: cover;
     text-align: center;
