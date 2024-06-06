@@ -6,7 +6,7 @@ export let plumbingCards  = [
     {
         title: "Plumbing System Installation",
         image: "/minec/assets/images/service/plumbing/plumbing-system.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Expert Installation for Seamless Water Flow",
         icon: "/minec/assets/icons/services/plumbing/icons8-faucet-100.png",
         content: plumbingSystemInstallation
 
@@ -14,7 +14,7 @@ export let plumbingCards  = [
     {
         title: "Plumbing Repairs",
         image: "/minec/assets/images/service/plumbing/plumbing-tools.png",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Restoring Plumbing Integrity",
         icon: "/minec/assets/icons/services/electrical/icons8-wrench-100.png",
         content: plumbingRepairs
         
@@ -22,21 +22,21 @@ export let plumbingCards  = [
     {
         title: "Leak Detection and Repair",
         image: "/minec/assets/images/service/plumbing/leak-detection.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Fixing Leaks - reduces you water bill",
         icon: "/minec/assets/icons/services/plumbing/icons8-leak-100.png",
         content: leakDetectionAndRepair
     },
     {
         title: "Drain Cleaning and Unclogging",
         image: "/minec/assets/images/service/plumbing/drain-cleaning.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Clearing Drains for Smooth Water Disposal",
         icon: "/minec/assets/icons/services/plumbing/icons8-drain-64.png",
         content: DrainCleaningAndUnclogging
     },
     {
         title: "Geyser Installation and Repair",
         image: "/minec/assets/images/service/plumbing/geyser-installation.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Reliable Hot Water Solutions for Your Home",
         icon: "/minec/assets/icons/services/plumbing/icons8-geyser-100.png",
         content: geyserInstallationAndRepair
 
@@ -44,7 +44,7 @@ export let plumbingCards  = [
     {
         title: "Bathroom and Kitchen Remodeling",
         image: "/minec/assets/images/service/plumbing/kitchen-sink.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Efficient Solutions for Kitchen & Toilet Issues",
         icon: "/minec/assets/icons/services/plumbing/icons8-kitchen-room-100.png",
         content: BathroomAndKitchenRemodelling
         
@@ -52,14 +52,14 @@ export let plumbingCards  = [
     {
         title: "Sewer Line Services",
         image: "/minec/assets/images/service/plumbing/sewer-line.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Efficient and Effective Sewer Line Solutions",
         icon: "/minec/assets/icons/services/plumbing/icons8-sewer-60.png",
         content: sewerLineServices
     },
     {
         title: "Pipe Replacement and Relining",
         image: "/minec/assets/images/service/plumbing/pipe-replacement.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Restoring Pipe Integrity for Longevity",
         icon: "/minec/assets/icons/services/plumbing/icons8-pipe-100.png",
         content: pipeReplacementAndRelining
     },
@@ -74,7 +74,7 @@ export let plumbingCards  = [
     {
         title: "Emergency Plumbing Services",
         image: "/minec/assets/images/service/plumbing/emergency-plumbing-services.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "24/7 Solutions for Plumbing Emergencies",
         icon: "/minec/assets/icons/services/plumbing/icons8-siren-100.png",
         content: emergencyPlumbingServices
         
