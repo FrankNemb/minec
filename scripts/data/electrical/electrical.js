@@ -5,7 +5,7 @@ export let electricalCards  = [
     {
         title: "Electrical System Installation",
         image: "/minec/assets/images/service/electrical/electrical-maintenance.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Powering Your Home with Precision",
         icon: "/minec/assets/icons/services/electrical/icons8-high-voltage-100.png",
         content: electricalSystemInstallation
 
@@ -13,7 +13,7 @@ export let electricalCards  = [
     {
         title: "Electrical Repairs",
         image: "/minec/assets/images/service/electrical/specialty.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Expert Repairs for Reliable Electricity",
         icon: "/minec/assets/icons/services/electrical/icons8-wrench-100.png",
         content: electricalRepairs
         
@@ -21,21 +21,21 @@ export let electricalCards  = [
     {
         title: "Lighting Installation and Upgrades",
         image: "/minec/assets/images/service/electrical/light-fixture-replacement.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Illuminating Your Space with Modern Lighting",
         icon: "/minec/assets/icons/services/electrical/icons8-light-bulb-100.png",
         content: lightingInstallationAndUpgrades
     },
     {
         title: "Circuit Breaker Panel Upgrades",
         image: "/assets/images/service/electrical/circuit-breaker.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Upgrading Panels for Enhanced Safety",
         icon: "/minec/assets/icons/services/electrical/icons8-light-switch-100 copy.png",
         content: circuitBreakerPanelUpgrades
     },
     {
         title: "Outlet and Switch Installation",
         image: "/minec/assets/images/service/electrical/outlet.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Convenient and Safe Power Access"",
         icon: "/minec/assets/icons/services/electrical/icons8-plug-100.png",
         content: outletAndSwitchInstallation
 
@@ -43,7 +43,7 @@ export let electricalCards  = [
     {
         title: "Wiring and Rewiring",
         image: "/minec/assets/images/service/electrical/wiring.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Ensuring Safe and Efficient Wiring",
         icon: "/minec/assets/icons/services/electrical/icons8-wiring-64.png",
         content: wiringAndRewiring
         
@@ -51,21 +51,21 @@ export let electricalCards  = [
     {
         title: "Ceiling Fan Installation",
         image: "/minec/assets/images/service/electrical/ceiling-fan.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text:"Keeping You Cool with Expert Fan Installation",
         icon: "/minec/assets/icons/services/electrical/icons8-fan-100.png",
         content: ceilingFanInstallation
     },
     {
         title: "Home Automation and Smart Home Systems",
         image: "/minec/assets/images/service/electrical/smart-home.png",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Smart Solutions for a Modern Home"",
         icon: "/minec/assets/icons/services/electrical/icons8-smart-home-100.png",
         content: homeAutomationAndSmartHomeSystems
     },
     {
         title: "Surge Protection",
         image: "/minec/assets/images/service/electrical/Surge-Protector.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Protecting Your Home from Electrical Surges",
         icon: "/minec/assets/icons/services/electrical/icons8-lightning-100.png",
         content: surgeProtection
 
@@ -73,7 +73,7 @@ export let electricalCards  = [
     {
         title: "Electrical Safety Inspections",
         image: "/minec/assets/images/service/electrical/electrical-maintenance.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Ensuring Electrical Safety and Compliance",
         icon: "/minec/assets/icons/services/electrical/icons8-magnifier-100.png",
         content: electricalSafetyInspections
         
@@ -81,14 +81,14 @@ export let electricalCards  = [
     {
         title: "Generator Installation and Maintenance",
         image: "/minec/assets/images/service/electrical/generator-installation.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Reliable Power Backup Solutions",
         icon: "/minec/assets/icons/services/electrical/icons8-battery-100.png",
         content: GeneratorInstallationAndMaintenance
     },
     {
         title: "Landscape Lighting",
         image: "/minec/assets/images/service/electrical/landscaping-lighting.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Enhancing Your Outdoor Ambiance with Lighting",
         icon: "/minec/assets/icons/services/electrical/icons8-oak-tree-100.png",
         content: landscapingLighting
     }
