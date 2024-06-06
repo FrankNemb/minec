@@ -3,59 +3,59 @@ import { bathroomRenovations, exteriorRenovations, flooringInstallations, kitche
 export let renovationCards  = [
     {
         title: "Kitchen Remodeling",
-        image: "/assets/images/service/renovations/kitchen.jpeg",
+        image: "/minec/assets/images/service/renovations/kitchen.jpeg",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/icons8-kitchen-100.png",
+        icon: "/minec/assets/icons/services/renovations/icons8-kitchen-100.png",
         content: kitchenRemodeling
     },
     {
         title: "Bathroom Renovations",
-        image: "/assets/images/service/renovations/bathroom.webp",
+        image: "/minec/assets/images/service/renovations/bathroom.webp",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/icons8-bath-100.png",
+        icon: "/minec/assets/icons/services/renovations/icons8-bath-100.png",
         content: bathroomRenovations
     },
     {
         title: "Room Additions",
-        image: "/assets/images/service/renovations/bedroom.jpeg",
+        image: "/minec/assets/images/service/renovations/bedroom.jpeg",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/icons8-add-100.png",
+        icon: "/minec/assets/icons/services/renovations/icons8-add-100.png",
         content: roomAdditions
     },
    
     {
         title: "Flooring Installation",
-        image: "/assets/images/service/renovations/flooring.jpeg",
+        image: "/minec/assets/images/service/renovations/flooring.jpeg",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/icons8-floor-64.png",
+        icon: "/minec/assets/icons/services/renovations/icons8-floor-64.png",
         content: flooringInstallations
     },
     {
         title: "Painting and Decorating",
-        image: "/assets/images/service/renovations/interior-and-exterior.webp",
+        image: "/minec/assets/images/service/renovations/interior-and-exterior.webp",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/icons8-paint-brush-100 copy.png",
+        icon: "/minec/assets/icons/services/renovations/icons8-paint-brush-100 copy.png",
         content: paintingAndDecorating
     },
     {
         title: "Window and Door Replacement",
-        image: "/assets/images/service/renovations/window.jpeg",
+        image: "/minec/assets/images/service/renovations/window.jpeg",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/icons8-window-100.png",
+        icon: "/minec/assets/icons/services/renovations/icons8-window-100.png",
         content: windowAndDoorReplacement
     },
     {
         title: "Exterior Renovations",
-        image: "/assets/images/service/renovations/exterior-renovations.jpeg",
+        image: "/minec/assets/images/service/renovations/exterior-renovations.jpeg",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/properties.png",
+        icon: "/minec/assets/icons/services/renovations/properties.png",
         content: exteriorRenovations
     },
     {
         title: "Struction Repairs",
-        image: "/assets/images/service/renovations/structure-repair.jpeg",
+        image: "/minec/assets/images/service/renovations/structure-repair.jpeg",
         text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/assets/icons/services/renovations/structure.webp",
+        icon: "/minec/assets/icons/services/renovations/structure.webp",
         content: structuralRepairs
     }
 ]
