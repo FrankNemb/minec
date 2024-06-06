@@ -35,7 +35,7 @@ export let electricalCards  = [
     {
         title: "Outlet and Switch Installation",
         image: "/minec/assets/images/service/electrical/outlet.jpeg",
-        text: "Convenient and Safe Power Access"",
+        text: "Convenient and Safe Power Access",
         icon: "/minec/assets/icons/services/electrical/icons8-plug-100.png",
         content: outletAndSwitchInstallation
 
