@@ -27,7 +27,7 @@ export let maintenanceCards = [
   },
   {
     title: "Plumbing and Electrical Maintenance",
-    image: "/minec/minec/assets/images/service/maintenance/plumbing-services.jpeg",
+    image: "/minec/assets/images/service/maintenance/plumbing-services.jpeg",
     text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
     icon: "/minec/assets/icons/services/maintenance/icons8-faucet-100.png",
     content: plumbingAndElectricalMaintenance,
