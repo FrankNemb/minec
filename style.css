@@ -1242,10 +1242,11 @@ nav .hamburger-menu-icon{
     }
     .service-container h2{
     font-size: 15px;
-  
+    }
+    .service-container p{
+    font-size: 13px;
     
-   
-}
+    }
 }
 
 /*---------------------service details----------------*/
