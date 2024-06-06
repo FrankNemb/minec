@@ -104,7 +104,7 @@ function displaySelectedData(serviceId){
         sessionStorage.setItem('data', variableToPass);
         const elementToPass = divContainer.id;
         sessionStorage.setItem('element', elementToPass);
-        window.location.href = 'pages/services/services-details.html';
+        window.location.href = '/minec/pages/services/services-details.html';
 
       })
       
