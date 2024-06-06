@@ -4,29 +4,29 @@ export let landscapingCards  = [
     {
         title: "Design and Planning",
         image: "/minec/assets/images/service/landscaping/landscaping-design.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/minec/images/icons/icons8-hammer-100.png",
+        text: "Crafting Beautiful Outdoor Spaces for Your Home",
+        icon: "/minec/assets/icons/services/icons8-hammer-100.png",
         content: designAndPlanning
     },
     {
         title: "Installation Services",
         image: "/minec/assets/images/service/landscaping/landscaping-installation.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Bringing Life and Color to Your Garden",
         icon: "/minec/assets/images/icons/icons8-hammer-100.png",
         content: installationServices
     },
     {
         title: "Maintenance Services",
         image: "/minec/assets/images/service/landscaping/landscaping-maintenance.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Greening Your Lawn with Expert Care",
         icon: "/minec/assets/images/icons/icons8-hammer-100.png",
         content: maintenanceServices
     },
     {
-        title: "Specialty Services",
+        title: "Irrigation Installation and Maintenance",
         image: "/minec/assets/images/service/landscaping/irrigation.jpeg",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-        icon: "/minec/assets/images/icons/icons8-hammer-100.png",
+        text: "Efficient Watering Solutions for Your Landscape",
+        icon: "/minec/assets/icons/services/icons8-hammer-100.png",
         content: specialtyServices
     },
 ]
