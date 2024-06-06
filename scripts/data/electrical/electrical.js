@@ -58,7 +58,7 @@ export let electricalCards  = [
     {
         title: "Home Automation and Smart Home Systems",
         image: "/minec/assets/images/service/electrical/smart-home.png",
-        text: "Smart Solutions for a Modern Home"",
+        text: "Smart Solutions for a Modern Home",
         icon: "/minec/assets/icons/services/electrical/icons8-smart-home-100.png",
         content: homeAutomationAndSmartHomeSystems
     },
