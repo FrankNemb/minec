@@ -66,7 +66,7 @@ export let plumbingCards  = [
     {
         title: "Gas Line Installation and Repair",
         image: "/minec/assets/images/service/plumbing/gas-line-installation.webp",
-        text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
+        text: "Safe installations eqauls Safe Homes",
         icon: "/minec/assets/icons/services/plumbing/icons8-gas-industry-100.png",
         content: gasLineInstallation
 
