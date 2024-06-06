@@ -8,7 +8,7 @@ serviceColumns.forEach((column)=>{
         const variableToPass =  column.id ;
         console.log(variableToPass)
         sessionStorage.setItem('data', variableToPass);
-        window.location.href = 'pages/services/services-landing-page.html';
+        window.location.href = '/minec/pages/services/services-landing-page.html';
         
     })
 })
