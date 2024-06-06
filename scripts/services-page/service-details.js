@@ -1,4 +1,4 @@
-import { services } from "./script/data/services.js";
+import { services } from "/minec/scripts/data/services.js";
 
 let serviceContainer = document.querySelector(".js-service-container");
 serviceContainer.innerHTML = `
