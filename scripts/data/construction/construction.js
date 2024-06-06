@@ -26,7 +26,7 @@ export let constructionDevelopmentCards = [
     title: "Project Management",
     image: "/minec/assets/images/service/construction/project-management.jpeg",
     text: "JHKJhsadjkhlfkja hasjkfa jhdjk hasjkldaj df",
-    icon: "/assets/icons/services/construction/icons8-clipboard-100.png",
+    icon: "/minec/assets/icons/services/construction/icons8-clipboard-100.png",
     content: projectManagement
   },
   {
