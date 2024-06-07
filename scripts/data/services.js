@@ -48,7 +48,7 @@ export let services = [
     data: landscapingCards,
   },
   {
-    title: "Aluminium Windows and Doors",
+    title: "Aluminium Frames",
     paragraph: "ahjkfadhjkfd",
     data: aluminiumCards,
   },
