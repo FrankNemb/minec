@@ -1003,7 +1003,7 @@ nav .hamburger-menu-icon{
 }
 
 .service-container .left{
-     display: grid;
+    display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   height: 100vh;
   min-width: 50px;
@@ -1022,6 +1022,9 @@ nav .hamburger-menu-icon{
     border: solid 1px rgb(220, 219, 219);
     overflow: hidden;
 }
+.service-container .container .images{
+    
+    width: 350px;
 
 }
 
@@ -1177,9 +1180,6 @@ nav .hamburger-menu-icon{
         height: fit-content;
         overflow: hidden;
         padding: 0px;
-       
-       
-       
      }
 
     .service-container .container{
@@ -1187,8 +1187,7 @@ nav .hamburger-menu-icon{
         display: flex;
         flex-direction: column;
         width: 400px;
-        height: fit-content;
-       
+        height: fit-content;   
 
     }
 
