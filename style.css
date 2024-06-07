@@ -904,6 +904,76 @@ nav .hamburger-menu-icon{
 }
 
 /*-----------------contact us -----------------*/
+.location {
+  width: 80%;
+  margin: auto;
+  padding: 80px 0px;
+}
+
+.location iframe {
+  width: 100%;
+}
+
+.contact-us {
+  width: 80%;
+  margin: auto;
+}
+
+.contact-us .row {
+  margin-top: 100px;
+  display: flex;
+}
+
+.contact-col {
+  flex-basis: 48%;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.contact-col div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.contact-col img {
+  margin: 10px;
+  margin-right: 20px;
+  width: 24px;
+}
+
+.contact-col h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #151515;
+  font-weight: 300;
+  font-family: beon;
+}
+
+.contact-col p {
+  padding: 0px;
+  color: #6e6e6e;
+  font-weight: 200;
+}
+
+.contact-col input,
+.contact-col textarea {
+  width: 90%;
+  padding: 15px;
+  margin-bottom: 17px;
+  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+@media (max-width: 750px) {
+  .contact-us .row {
+    flex-direction: column;
+  }
+}
+
+
+/*-------service landing page -----------*/
 .service-container {
   width: 90%;
   margin: auto;
