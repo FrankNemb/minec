@@ -1003,27 +1003,25 @@ nav .hamburger-menu-icon{
 }
 
 .service-container .left{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    height: 150vh;
-    min-width: 50px;
-    border-right: solid 1px  rgb(220, 219, 219);
-    padding-right: 50px;
-    overflow: scroll;
-    gap: 20px;
-}
+     display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 100vh;
+  min-width: 50px;
+  border-right: solid 1px rgb(220, 219, 219);
+  padding-right: 50px;
+  overflow: scroll;
+  gap: 20px;
 
 
 
 .service-container .container{
-
     display: flex;
     flex-direction: column;
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 300px;
     border: solid 1px rgb(220, 219, 219);
-  
     overflow: hidden;
+}
 
 }
 
@@ -1038,9 +1036,10 @@ nav .hamburger-menu-icon{
 
 
 .images img{
-    width: 400px;
-    height: 250px;
+    width: 350px;
+    height: 200px;
     margin-bottom: 20px;
+}
 }
 
 .service-container .container:hover .images img{
@@ -1071,7 +1070,7 @@ nav .hamburger-menu-icon{
     text-align: left;
  }
 .service-container h2{
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 400;
     font-family: beon;
     
@@ -1079,13 +1078,13 @@ nav .hamburger-menu-icon{
 }
 
 .service-container p{
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 300;
     color: #555;
 }
 
 .service-container .right{
-    width: 400px;
+    width: 300px;
     text-align: left;
     padding-left: 50px;
 }
@@ -1141,36 +1140,18 @@ nav .hamburger-menu-icon{
 
 }
 
-
-
-@media(max-width: 1300px){
-    .service-container .left{
-        grid-template-columns: 1fr;
-
-    }
-
-    .service-container .right{
-        width: 300px;
-    }
-
-
+@media (max-width: 1600px) {
+  .service-container .left {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 @media(max-width: 1200px){
-    .service-container .left{
-        flex-direction: column;
-        align-items: center;
-        width: fit-content;
-        gap: 20px;
-        
-    }
-
-    .service-container .right{
-        width: 300px;
-    }
-
-
+    .service-container .left {
+    grid-template-columns: 1fr;
+   }
 }
+
 
 @media(max-width: 850px){
 
