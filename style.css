@@ -414,7 +414,7 @@ nav .hamburger-menu-icon{
     
     .project-column img{
         width: 80vw;
-        transform: translateY(-40%); 
+        transform: translateY(0%); 
         transition: 1s;
     }
 
