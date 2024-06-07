@@ -27,7 +27,7 @@ export let electricalCards  = [
     },
     {
         title: "Circuit Breaker Panel Upgrades",
-        image: "/assets/images/service/electrical/circuit-breaker.webp",
+        image: "/minec/assets/images/service/electrical/circuit-breaker.webp",
         text: "Upgrading Panels for Enhanced Safety",
         icon: "/minec/assets/icons/services/electrical/icons8-light-switch-100 copy.png",
         content: circuitBreakerPanelUpgrades
